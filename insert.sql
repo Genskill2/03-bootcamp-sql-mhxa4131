@@ -44,4 +44,4 @@ insert into books_subjects(book , subject) values ( 6 , 7  );
 insert into books_subjects(book , subject) values ( 7 , 5  );
 insert into books_subjects(book , subject) values ( 7 , 8  );
 insert into books_subjects(book , subject) values ( 8 , 8  );
-insert into books_subjects(book , subject) values ( 8 , 9  )
+insert into books_subjects(book , subject) values ( 8 , 9  );
